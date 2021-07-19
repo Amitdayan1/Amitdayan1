@@ -1,0 +1,29 @@
+.Sort {
+  text-align: center;
+  font-style: italic;
+  background: bisque;
+}
+
+.products{
+  text-align: center;
+  tab-size: initial;
+  background: bisque;
+
+}
+.Title{
+  background: #ffd7c4;
+  text-align: center;
+  font-style: italic;
+
+}
+.All{
+  background: #ffd7c4;
+}
+.App-link {
+  color: #61dafb;
+}
+.Conversion{
+  text-align: left;
+}
+
+
